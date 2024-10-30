@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhueHo4czVlNGpiZm0xZXhwcXZuZnVsZ3k2ODg1bXVtZTZoOWg0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gM5qFksULw54NMWyry/giphy.webp" width="50px"> I'm Anvar</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
-- 📝 I regularly write articles on [https://t.me/deVeloper's_blog](https://t.me/deVeloper's_blog)
+- 📝 I regularly write articles on https://t.me/deVeloper's_blog](https://t.me/deVeloper's_blog)
 
 - 📫 How to reach me **https://t.me/anvarDev14 my Telegram**
 
