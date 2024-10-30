@@ -1,5 +1,4 @@
-<h1 align="center">Hi <img src="https://media3.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?,
-cid=ecf05e477qqyo0fvkivw6q0oe6iq6dpk2txm0iyx7kzab3op&rid=giphy.gif&ct=s" width="30px"> I'm Anvar</h1>
+<h1 align="center">Hi <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhueHo4czVlNGpiZm0xZXhwcXZuZnVsZ3k2ODg1bXVtZTZoOWg0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gM5qFksULw54NMWyry/giphy.webp" width="30px"> I'm Anvar</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anvardev14&label=Profile%20views&color=0e75b6&style=flat" alt="anvardev14" /> </p>
