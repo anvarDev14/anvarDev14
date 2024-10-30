@@ -17,9 +17,8 @@
   <img src="https://streak-stats.demolab.com?user=[your username]&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[anvarDev14]&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
 </div>
- 
+ Favorite Tech
 <div>
-Favorite Tech
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Py" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="C#" alt="C" width="40" height="40"/>&nbsp;
   <div>
