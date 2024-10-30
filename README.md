@@ -14,8 +14,8 @@
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <div id="stats">
   <h2>Stats</h2>
-  <img src="https://streak-stats.demolab.com?user=[anvarDev14]&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[anvarDev14]&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=[AnvarDev]&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[AnvarDev]&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
 </div>
  Favorite Tech
 <div>
