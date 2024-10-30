@@ -3,22 +3,29 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anvardev14&label=Profile%20views&color=0e75b6&style=flat" alt="anvardev14" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anvardev14" alt="anvardev14" /></a> </p>
 
+- 📝 I regularly write articles on [https://t.me/deVeloper's_blog](https://t.me/deVeloper's_blog)
+
+- 📫 How to reach me **https://t.me/anvarDev14 my Telegram**
+
+- ⚡ Fun fact **my hair is like a hedgehog**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/anvar_r.r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anvar_r.r" height="30" width="40" /></a>
+<a href="https://dev.to/dev.to anvardev14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to anvardev14" height="30" width="40" /></a>
+<a href="https://instagram.com/anvar.r_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anvar.r_r" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<div id="stats">
-  <h2>Stats</h2>
-  <img src="https://streak-stats.demolab.com?user=AnvarDev&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnvarDev&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
-</div>
- Favorite Tech
-<div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anvardev14&show_icons=true&locale=en&layout=compact" alt="anvardev14" /></p>
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Py" width="40" height="40"/>&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png" width="40" height="40"/>
-  <div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anvardev14&show_icons=true&locale=en" alt="anvardev14" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anvardev14&" alt="anvardev14" /></p>
