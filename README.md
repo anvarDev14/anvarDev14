@@ -9,11 +9,11 @@
 <div id="bio">
   <h2>About Me</h2>
   <ul>
-    <li>I'm a [backend developer] </li>
-    <li>I'm passionate about [speed cubing]</li>
+    <li>I'm a backend developer </li>
+    <li>I'm passionate about speed cubing</li>
     <li>I'm constantly learning and updating my skills to stay up-to-date with the latest technologies.</li> 
     <li>I enjoy documenting my projects on Medium to gain a deeper understanding of my work.</li>
-    <li>Focusing on learning [programming] right now.</li>
+    <li>Focusing on learning programming right now.</li>
   </ul>
 </div>
 
