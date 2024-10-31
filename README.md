@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **https://t.me/anvarDev14 my Telegram**
 
-- ⚡ Fun fact **my hair is like a hedgehog**
+- ⚡ Fun fact: **My hair is like a hedgehog**
 
 <div id="bio">
   <h2>About Me</h2>
